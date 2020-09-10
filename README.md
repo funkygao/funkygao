@@ -1,4 +1,4 @@
-### Hi there, I'm Funky 👋
+### Hi there, I'm Funky. Hope I can help  👋
 
 Solution oriented programming, design for simplicity.
 
