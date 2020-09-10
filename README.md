@@ -2,7 +2,7 @@
 
 Solution oriented programming, design for simplicity.
 
-Explore, then Solve problems.
+Explore, then Solve problems in elegant way.
 
 ---
 
